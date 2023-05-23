@@ -2,6 +2,9 @@
 
 Welcome to The Pink City, a website showcasing the vibrant and culturally rich city of Jaipur in Rajasthan, India.
 
+![pinkCity](https://github.com/neeraj542/The-Pink-City-Rajasthan/assets/114648043/ea4a92c3-c111-4a54-99bf-dbe7157c8939)
+
+
 ## Website Overview
 
 This website serves as a virtual guide to Jaipur, also known as "The Pink City," offering information about its historical landmarks, colorful culture, local cuisine, and tourist attractions. It aims to provide visitors with a glimpse into the charm and essence of Jaipur, making it an ideal resource for tourists, history enthusiasts, and anyone interested in exploring the city.
